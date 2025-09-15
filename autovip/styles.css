@@ -1,0 +1,27 @@
+
+
+footer {
+  font-size: 14px;
+}
+
+h2{
+  text-align: left;
+}
+.carousel-item img{
+  height: 600px;
+}
+.mb-0{
+  text-align: left;
+  font-size: 30px;
+}
+.contenedor {
+  display: flex;                  
+
+}
+
+.columna {
+  padding-left: 20%;
+  padding-right: 2%;
+}
+
+
